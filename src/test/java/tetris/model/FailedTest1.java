@@ -8,7 +8,7 @@ public class FailedTest1 {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		assertEquals(0, 1);
 	}
 
 }
