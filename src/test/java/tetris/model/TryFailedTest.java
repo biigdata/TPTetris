@@ -2,13 +2,13 @@ package tetris.model;
 
 import static org.junit.Assert.*;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class TryFailedTest {
 
-	@Test
+	@Ignore
 	public void test() {
-		assertEquals(0, 1);
 	}
 
 }
